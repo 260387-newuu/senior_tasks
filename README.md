@@ -1,5 +1,10 @@
 # My Senior Internship Tasks
 
+## Notes
+
+1) The report is inside the Task2 directory
+2) Directories Task1 and Task2 refer to Part A and Part B of the original Senior Track tasks sent to me by email.
+
 ## Part A 
 
 <video src="https://github.com/user-attachments/assets/8fd68ed7-706c-4dd8-890c-d496f568b7e7" controls width="100%">Can't render this</video>
